@@ -21,3 +21,4 @@ a = "lokesh"
 for (single in a) {
     console.log(single + ":" + a[single]);
 }
+//new for commit
